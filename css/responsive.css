@@ -1,0 +1,109 @@
+@media screen and (max-width: 1200px) {
+    .heading2 h2 {
+        font-size: 55px!important;
+    }
+}
+@media screen and (max-width: 990px) {
+    .heading2 h2 {
+        font-size: 40px!important;
+    }
+    .btn {
+        padding: 7px 60px!important;
+    }
+    .some-feature-bg p {
+        width: 90% !important;
+    }
+}
+@media screen and (max-width: 712px) {
+    .heading2 h2 {
+        font-size: 35px!important;
+    }
+    .play-icon i {
+        font-size: 45px!important;
+        width: 65px!important;
+        height: 65px!important;
+    }
+
+    .btn {
+        padding: 7px 50px!important;
+    }
+}
+@media screen and (max-width: 640px) {
+    .heading2 h2 {
+        font-size: 25px!important;
+    }
+    .btn {
+         padding: 7px 40px!important;
+     }
+}
+@media screen and (max-width: 626px) {
+    .heading2 h2 {
+        font-size: 30px!important;
+    }
+    .col-xs-4 {
+        width: 100%!important;
+        margin-bottom: 10px;
+    }
+    .co-founder-det img {
+        width: 20%!important;
+    }
+    .btn {
+        padding: 7px 55px!important;
+    }
+    .some-feature-bg p {
+         width: 100% !important;
+     }
+    .btn {
+        padding: 7px 35px!important;
+    }
+}
+@media screen and (max-width: 542px) {
+    .heading2 h2 {
+        font-size: 25px!important;
+    }
+    .btn {
+        padding: 7px 25px!important;
+    }
+    .col-xs-6 {
+        width: 100% !important;
+    }
+    .responsive-bg-2 {
+        width: 100% !important;
+    }
+    .deign-person-details {
+        width: 100% !important;
+    }
+    .col-xs-7 {
+        width: 100%!important;
+    }
+    .col-xs-6 {
+        width: 100% !important;
+    }
+    .col-xs-3 {
+        width: 100% !important;
+        text-align: center;
+    }
+    .col-xs-2 {
+        width: 100% !important;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 456px) {
+    .heading2 h2 {
+        font-size: 20px!important;
+    }
+    .co-founder-det img {
+        height: 100px!important;
+    }
+    .col-xs-6 {
+        width: 100% !important;
+    }
+}
+@media screen and (max-width: 368px) {
+    .heading2 h2 {
+        font-size: 18px!important;
+    }
+    .co-founder-det img {
+        height: 70px!important;
+    }
+}
